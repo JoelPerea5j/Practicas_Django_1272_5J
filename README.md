@@ -6,7 +6,7 @@ Aquí se realizan las paginas en Django que es un Framework Marco de trabajo UII
 - 4 Abrir terminal en Vs Code
 - 5 Verificar que este instalado python python --version
 - 6 Crear entorno virtual py -3 -m venv .venv
-- 7 Activar entorno virtual .venv\scripts\activate
+- 7 Activar entorno virtual .venv\scripts\activate.bat
 - 8 Seleccionar interprete de python  presiones f1
 - 9 Actualizar pip --> python -m pip install --upgrade pip
 - 10 instalar Framework de Django --> python -m pip install django
